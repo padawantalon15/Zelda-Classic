@@ -1,0 +1,587 @@
+ZQuest v2.50 (Build 29)
+08.84k/1.00M)... Allocating dmap buffer (234.00k/2.06M)... Allocating door combo buffer (159.50k/1.83M)... OK
+Allocating dmap buffer (234.00k/2.06M)... OK
+Allocating combo buffer (1.62M/3.67M)... OK
+Allocating combo buffer (1.62M/3.67M)... OK
+Allocating combo buffer (5.98k/1.01M)... OK
+Allocating string buffer (680.00k/1.67M)... OK
+Allocating color data buffer (314.11k/3.98M)... OK
+OK
+cating tile buffer (8.50M/12.48M)... Allocating color data buffer (314.11k/3.98M)... OK
+Allocating tile buffer (8.50M/12.48M)... OK
+Allocating door combo buffer (159.50k/1.83M)... OK
+Allocating dmap buffer (234.00k/2.06M)... OK
+Allocating combo buffer (1.62M/3.67M)... OK
+Allocating color data buffer (314.11k/3.98M)... OK
+Allocating tile buffer (8.50M/12.48M)... OK
+Allocating tile grab buffer (511.88k/20.98M)... OK
+Allocating tile grab buffer (511.88k/20.98M)... OK
+Allocating tile grab buffer (511.88k/20.98M)... OK
+Allocating tile grab buffer (511.88k/20.98M)... OK
+Allocating trash buffer (97.66k/21.07M)... OK
+Allocating item buffer (31.12k/21.10M)... OK
+Allocating weapon buffer (2.50k/21.10M)... OK
+Allocating guy buffer (70.00k/21.17M)... OK
+Allocating combo class buffer (33.30k/21.21M)... OK
+Allocating combo undo buffer (1.62M/22.82M)... OK
+Allocating new tile undo buffer (511.88k/23.32M)... OK
+Resetting new tile buffer...OK
+Allocating file path buffers (14.00k/23.33M)... OK
+Initializing Allegro... OK
+Allocating trash buffer (97.66k/21.07M)... OK
+Allocating item buffer (31.12k/21.10M)... OK
+Allocating weapon buffer (2.50k/21.10M)... OK
+Allocating guy buffer (70.00k/21.17M)... OK
+Allocating combo class buffer (33.30k/21.21M)... OK
+Allocating combo undo buffer (1.62M/22.82M)... OK
+Allocating new tile undo buffer (511.88k/23.32M)... OK
+Resetting new tile buffer...OK
+Allocating trash buffer (97.66k/21.07M)... OK
+Allocating item buffer (31.12k/21.10M)... OK
+Allocating weapon buffer (2.50k/21.10M)... OK
+Allocating guy buffer (70.00k/21.17M)... Allocating file path buffers (14.00k/23.33M)... OK
+OK
+Initializing Allegro... Allocating combo class buffer (33.30k/21.21M)... OK
+Allocating combo undo buffer (1.62M/22.82M)... OK
+Allocating new tile undo buffer (511.88k/23.32M)... OK
+Resetting new tile buffer...OK
+Allocating file path buffers (14.00k/23.33M)... OK
+Initializing Allegro... OK
+Allocating trash buffer (97.66k/21.07M)... OK
+Allocating item buffer (31.12k/21.10M)... OK
+Allocating weapon buffer (2.50k/21.10M)... OK
+Allocating guy buffer (70.00k/21.17M)... OK
+Allocating combo class buffer (33.30k/21.21M)... OK
+Allocating combo undo buffer (1.62M/22.82M)... OK
+Allocating new tile undo buffer (511.88k/23.32M)... OK
+Resetting new tile buffer...OK
+Allocating file path buffers (14.00k/23.33M)... OK
+Initializing Allegro... Allocating tunes buffer (16.00k/16.00k)... OK
+Allocating map buffer (1008.84k/1.00M)... OK
+Allocating combo buffer (5.98k/1.01M)... OK
+Allocating string buffer (680.00k/1.67M)... OK
+Allocating door combo buffer (159.50k/1.83M)... OK
+Allocating dmap buffer (234.00k/2.06M)... OK
+Allocating combo buffer (1.62M/3.67M)... OK
+Allocating color data buffer (314.11k/3.98M)... OK
+Allocating tile buffer (8.50M/12.48M)... OK
+Allocating tile grab buffer (511.88k/20.98M)... OK
+Allocating trash buffer (97.66k/21.07M)... OK
+Allocating item buffer (31.12k/21.10M)... OK
+Allocating weapon buffer (2.50k/21.10M)... OK
+Allocating guy buffer (70.00k/21.17M)... OK
+Allocating combo class buffer (33.30k/21.21M)... OK
+Allocating combo undo buffer (1.62M/22.82M)... OK
+Allocating new tile undo buffer (511.88k/23.32M)... OK
+Resetting new tile buffer...OK
+Allocating file path buffers (14.00k/23.33M)... OK
+Initializing Allegro... OK
+Loading data files:
+Fonts.Dat...OK
+ZQuest.Dat...OK
+Loading data files:
+Fonts.Dat...OK
+QST.Dat...OK
+ZQuest.Dat...OK
+QST.Dat...OK
+Loading data files:
+Fonts.Dat...OK
+ZQuest.Dat...OK
+QST.Dat...OK
+Loading data files:
+Fonts.Dat...OK
+ZQuest.Dat...OK
+SFX.Dat...OK
+SFX.Dat...OK
+SFX.Dat...OK
+QST.Dat...OK
+SFX.Dat...OK
+OK
+Initializing sound driver... OK
+OK
+OK
+OK
+Initializing sound driver... OK
+OK
+Initializing sound driver... Initializing sound driver... OK
+Loading data files:
+Fonts.Dat...OK
+ZQuest.Dat...OK
+QST.Dat...OK
+SFX.Dat...OK
+OK
+Initializing sound driver... OK
+OK
+gfx mode set at -2 8bpp 800 x 600 
+OK
+gfx mode set at -2 8bpp 800 x 600 
+gfx mode set at -2 8bpp 800 x 600 
+OK
+gfx mode set at -2 8bpp 800 x 600 
+OK
+gfx mode set at -2 8bpp 800 x 600 
+Loading Quest: untitled.qt0...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 29
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Trying to load 
+Trying to load 
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Saving Quest...
+
+Writing Header...okay.
+Writing Rules...okay.
+Writing Strings...okay.
+Writing Doors...okay.
+Writing DMaps...okay.
+Writing Misc. Data...okay.
+Writing Misc. Colors...okay.
+Writing Game Icons...okay.
+Writing Items...okay.
+Writing Weapons...okay.
+Writing Maps...okay.
+Writing Combos...okay.
+Writing Combo Aliases...okay.
+Writing Color Data...okay.
+Writing Tiles...okay.
+Writing MIDIs...okay.
+Writing Cheat Codes...okay.
+Writing Init. Data...okay.
+Writing Custom Guy Data...okay.
+Writing Custom Link Sprite Data...okay.
+Writing Custom Subscreen Data...okay.
+Writing FF Script Data...okay.
+Writing SFX Data...okay.
+Writing Item Drop Sets...okay.
+Writing Favorite Combos...okay.
+Removing timers. 
+Cleaning aliases. 
+Cleaning subscreens. 
+Cleaning sfx. 
+Cleaning script buffer. 
+Cleaning qst buffers. 
+Cleaning maps. 
+Cleaning tile buffers. 
+Cleaning misc. 
+Cleaning midis. 
+Cleaning undotilebuf. 
+Cleaning datafiles. 
+Cleaning bitmaps...... OK. 
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 27
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Removing timers. 
+Cleaning aliases. 
+Cleaning subscreens. 
+Cleaning sfx. 
+Cleaning script buffer. 
+Cleaning qst buffers. 
+Cleaning maps. 
+Cleaning tile buffers. 
+Cleaning misc. 
+Cleaning midis. 
+Cleaning undotilebuf. 
+Cleaning datafiles. 
+Cleaning bitmaps...... OK. 
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 27
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Removing timers. 
+Cleaning aliases. 
+Cleaning subscreens. 
+Cleaning sfx. 
+Cleaning script buffer. 
+Cleaning qst buffers. 
+Cleaning maps. 
+Cleaning tile buffers. 
+Cleaning misc. 
+Cleaning midis. 
+Cleaning undotilebuf. 
+Cleaning datafiles. 
+Cleaning bitmaps...... OK. 
+Loading Quest: untitled.qt0...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 29
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Removing timers. 
+Cleaning aliases. 
+Cleaning subscreens. 
+Cleaning sfx. 
+Cleaning script buffer. 
+Cleaning qst buffers. 
+Cleaning maps. 
+Cleaning tile buffers. 
+Cleaning misc. 
+Cleaning midis. 
+Cleaning undotilebuf. 
+Cleaning datafiles. 
+Cleaning bitmaps...... OK. 
+Loading Quest: untitled.qt0...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 29
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Removing timers. 
+Cleaning aliases. 
+Cleaning subscreens. 
+Cleaning sfx. 
+Cleaning script buffer. 
+Cleaning qst buffers. 
+Cleaning maps. 
+Cleaning tile buffers. 
+Cleaning misc. 
+Cleaning midis. 
+Cleaning undotilebuf. 
+Cleaning datafiles. 
+Cleaning bitmaps...... OK. 
